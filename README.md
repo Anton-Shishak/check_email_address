@@ -5,7 +5,7 @@
 
 ## Установка
 ```bash
-$ composer require shishak/check_email_address
+$ composer require ashishak/check_email_address
 ```
 
 ## Использование
