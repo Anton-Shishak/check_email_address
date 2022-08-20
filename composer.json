@@ -1,0 +1,16 @@
+{
+    "name": "ashishak/check_email_address",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Ashishak\\CheckEmailAddress\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shishak Anton",
+            "email": "shishak-anton@yandex.ru"
+        }
+    ],
+    "require": {}
+}
